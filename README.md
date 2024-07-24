@@ -11,9 +11,9 @@ Welcome to the Basics CPP Practicals! This repository contains a collection of C
 ### Running Practicals
 
 **Clone the repository to your local machine:**
-    ```bash
+```bash
     git clone https://github.com/khushdiyora/Basics-CPP-Practicals.git
-    ```
+```
 
 
 ### How to Contribute
